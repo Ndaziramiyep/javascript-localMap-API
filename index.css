@@ -1,3 +1,6 @@
 .links:hover{
     color: #1977cc;
 }
+.links{
+    user-select: none;
+}
